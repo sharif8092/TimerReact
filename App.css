@@ -1,0 +1,40 @@
+.timer-main-div{
+text-align: center;
+height: 100vh;
+  background-color: #7b1fa2;
+  color: #3f373a;
+}
+
+.timer-main-div h1{
+  margin-top: 0px;
+}
+
+.timer-card{
+  width: 500px;
+  height: 300px;
+  border-radius: 15px;
+  border: 1px solid white;
+  margin: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #3f373a;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#button{
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#button button{
+  background-color: #3f373a;
+  border-radius: 5px;
+  width: 70px;
+  height: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
