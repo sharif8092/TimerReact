@@ -17,7 +17,6 @@ height: 100vh;
   margin: 20px;
   margin-left: auto;
   margin-right: auto;
-  background-color: #3f373a;
   color: white;
   display: flex;
   align-items: center;
@@ -37,4 +36,13 @@ height: 100vh;
   height: 40px;
   margin-left: 20px;
   margin-right: 20px;
+}
+
+.bg-black{
+  background-color: #3f373a;
+  
+}
+
+.bg-green{
+  background-color: greenyellow;
 }
